@@ -9,3 +9,6 @@ content-type: application/json
 	"body": "this is the first note",
 	"rank": 1.1
 }
+
+### GET ALL NOTES
+POST {{url}}/api/get-notes
